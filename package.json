@@ -1,0 +1,32 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "okcoin test",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pkg": {
+    "scripts": "*.js"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "ws": "^5.1.1",
+    "colors": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "charlie",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "event": "^1.0.0",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^4.4.1"
+  }
+}
