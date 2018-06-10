@@ -1,1 +1,4 @@
-pkg  -t node8-linux-x64 .
+### NodeJs  Pkg
+##  NodeJs 编译发包成Native程序
+
+##pkg  -t node8-linux-x64 .
